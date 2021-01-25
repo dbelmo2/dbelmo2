@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Danny Belmonte, and im a recent gradaute who is currently looking for employment opportunities. 
-  - 🔭 I’m currently working on [UPick](https://twitter.com/UPickTweets?s=07&fbclid=IwAR1KpuTKgakB5iKCxlMjZuK4CU6nD17iWDixlceK8ALKZ0el-Wx3F4Asd6E)
+  - 🔭 I’m currently working on [UPick](https://play.google.com/store/apps/details?id=com.demboiz.upick&hl=en_US&gl=US)
   - 🌱 I’m currently learning react and android development
   - 😄 Pronouns: He/Him
   - 📫 contacts and social media: 
