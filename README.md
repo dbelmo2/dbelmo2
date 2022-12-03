@@ -8,9 +8,7 @@ My name is Danny Belmonte, and im a recent gradaute who is currently looking for
           email: danny.belmonte4@gmail.com
           phone: (708) 263-7468
           LinkedIn: [My LinkedIn](https://www.linkedin.com/in/belmontedanny/)
-          Facebook: [My FB](https://www.facebook.com/danny.belmonte.9/)
-          Twitter: [My Twitter](https://twitter.com/dbvalid)
-          
+ 
           
       
 <!--
