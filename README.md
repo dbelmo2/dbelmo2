@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Danny Belmonte, and im a recent gradaute who is currently looking for employment opportunities. 
-  - 🔭 I’m currently working on [UPick](https://play.google.com/store/apps/details?id=com.demboiz.upick&hl=en_US&gl=US)
-  - 🌱 I’m currently learning react and android development
+My name is Danny Belmonte.
+  - 🔭 I’m currently working on a 2D side-scroll shooter built using PixiJS.
+  - 🌱 I’m currently learning web development
   - 😄 Pronouns: He/Him
   - 📫 contacts and social media: 
           email: danny.belmonte4@gmail.com
