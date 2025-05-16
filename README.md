@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 My name is Danny Belmonte.
-  - 🔭 I’m currently working on a 2D side-scroll shooter built using PixiJS.
-  - 🌱 I’m currently learning web development
-  - 😄 Pronouns: He/Him
+  - 🔭 Working on a 2D side-scroll shooter built using PixiJS.
   - 📫 contacts and social media: 
           email: danny.belmonte4@gmail.com
           phone: (708) 263-7468
